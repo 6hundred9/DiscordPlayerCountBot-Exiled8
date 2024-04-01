@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordPlayerCountBot-Exiled8", "DiscordPlayerCountBot-Exiled8\DiscordPlayerCountBot-Exiled8.csproj", "{240A4BD2-D1B7-4084-AA26-3E216724DAEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240A4BD2-D1B7-4084-AA26-3E216724DAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240A4BD2-D1B7-4084-AA26-3E216724DAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240A4BD2-D1B7-4084-AA26-3E216724DAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240A4BD2-D1B7-4084-AA26-3E216724DAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
